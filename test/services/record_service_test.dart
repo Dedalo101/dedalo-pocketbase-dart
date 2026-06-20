@@ -2,7 +2,7 @@ import "dart:convert";
 
 import "package:http/http.dart" as http;
 import "package:http/testing.dart";
-import "package:pocketbase/pocketbase.dart";
+import "package:dedalo_pocketbase/pocketbase.dart";
 import "package:test/test.dart";
 
 import "crud_suite.dart";

@@ -1,4 +1,4 @@
-import "package:pocketbase/src/sync_queue.dart";
+import "package:dedalo_pocketbase/src/sync_queue.dart";
 import "package:test/test.dart";
 
 void main() {

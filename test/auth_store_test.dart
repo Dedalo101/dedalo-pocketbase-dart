@@ -1,6 +1,6 @@
 // ignore_for_file: lines_longer_than_80_chars
 
-import "package:pocketbase/pocketbase.dart";
+import "package:dedalo_pocketbase/pocketbase.dart";
 import "package:test/test.dart";
 
 void main() {

@@ -1,4 +1,4 @@
-import "package:pocketbase/src/sse/sse_message.dart";
+import "package:dedalo_pocketbase/src/sse/sse_message.dart";
 import "package:test/test.dart";
 
 void main() {

@@ -1,6 +1,6 @@
 // ignore_for_file: deprecated_member_use_from_same_package
 
-import "package:pocketbase/pocketbase.dart";
+import "package:dedalo_pocketbase/pocketbase.dart";
 import "package:test/test.dart";
 
 void main() {

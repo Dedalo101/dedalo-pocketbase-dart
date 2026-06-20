@@ -2,7 +2,7 @@ import "dart:convert";
 
 import "package:http/http.dart" as http;
 import "package:http/testing.dart";
-import "package:pocketbase/src/sse/sse_client.dart";
+import "package:dedalo_pocketbase/src/sse/sse_client.dart";
 import "package:test/test.dart";
 
 void main() {

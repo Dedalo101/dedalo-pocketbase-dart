@@ -2,7 +2,7 @@
 
 import "dart:async";
 
-import "package:pocketbase/pocketbase.dart";
+import "package:dedalo_pocketbase/pocketbase.dart";
 
 void main() {
   final pb = PocketBase("http://127.0.0.1:8090");

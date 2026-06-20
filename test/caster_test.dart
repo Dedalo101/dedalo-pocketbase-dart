@@ -1,4 +1,4 @@
-import "package:pocketbase/src/caster.dart" as caster;
+import "package:dedalo_pocketbase/src/caster.dart" as caster;
 import "package:test/test.dart";
 
 void main() {
