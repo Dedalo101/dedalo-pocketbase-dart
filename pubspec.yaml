@@ -1,8 +1,9 @@
-name: pocketbase
-description: Multi-platform Dart SDK for PocketBase, an open source realtime backend in 1 file.
-repository: https://github.com/pocketbase/dart-sdk
+name: dedalo_pocketbase
+description: Dedalo101-maintained Dart SDK for PocketBase — independent fork for the Dedalo artist platform and Core stack.
+repository: https://github.com/Dedalo101/dedalo-pocketbase-dart
+homepage: https://github.com/Dedalo101/dedalo-pocketbase-dart
 
-version: 0.24.0
+version: 0.24.0+dedalo1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
